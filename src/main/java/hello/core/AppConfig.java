@@ -15,6 +15,7 @@ import org.springframework.context.annotation.Configuration;
 public class AppConfig {
 
     //call AppConfig.memberService
+    //call AppConfig.memberService
     //call AppConfig.memberRepository
     //call AppConfig.memberRepository
     //call AppConfig.orderService
